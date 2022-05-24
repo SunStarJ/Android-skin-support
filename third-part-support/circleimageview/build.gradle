@@ -21,7 +21,7 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'de.hdodenhof:circleimageview:2.1.0'
     implementation project(':androidx:skin-support')
-    implementation project(':androidx:skin-support-appcompat')
+    
 }
 
 ext {

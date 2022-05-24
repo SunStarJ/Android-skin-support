@@ -21,7 +21,7 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'androidx.constraintlayout:constraintlayout:2.0.0-alpha2'
     implementation project(':androidx:skin-support')
-    implementation project(':androidx:skin-support-appcompat')
+    
 }
 
 ext {
